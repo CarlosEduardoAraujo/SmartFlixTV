@@ -16,6 +16,10 @@ Sim. A versão oficial será publicada na **Google Play Store**. Sempre que uma 
 
 Sim. O SmartFlix TV **não coleta nem envia nenhum dado pessoal do usuário**. Também não envia informações para **servidores na China, Estados Unidos ou Rússia**, conforme detalhado na nossa [Política de Privacidade](./PRIVACY.md).
 
+As únicas informações armazenadas são:
+- URL da lista M3U (fornecida pelo usuário).
+- Favoritos e configurações locais (no dispositivo).
+
 ---
 
 ## 🌐 O app precisa de internet?
