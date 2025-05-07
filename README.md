@@ -21,3 +21,7 @@ Se você encontrar algum problema ou tiver sugestões de melhoria, por favor abr
 ## Licença
 
 Distribuído sob a [MIT License](LICENSE).
+
+## Listas IPTV
+
+Nós não distribuimos lista IPTV*
