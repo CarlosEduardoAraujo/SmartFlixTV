@@ -1,6 +1,6 @@
 # SmartFlix TV
 
-**SmartFlix TV** é um aplicativo que permite aos usuários acessar e assistir a conteúdos de streaming organizados em categorias, como filmes, séries e canais ao vivo. Ele oferece recursos como favoritos, busca avançada e reprodução de vídeos..
+**SmartFlix TV** é um aplicativo que permite aos usuários acessar listas de transmissão (M3U) e assistir a conteúdos de streaming organizados em categorias, como filmes, séries e canais ao vivo. Ele oferece recursos como favoritos, busca avançada e reprodução de vídeos.
 
 ## Funcionalidades
 
