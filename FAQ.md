@@ -20,7 +20,7 @@ Sim. O SmartFlix TV **não coleta nem envia nenhum dado pessoal do usuário**. T
 
 ## 🌐 O app precisa de internet?
 
-Sim. Para funcionar corretamente, o SmartFlix TV requer conexão com a internet, pois as listas de transmissões são carregadas diretamente de fontes online.
+Sim. Para funcionar corretamente, o SmartFlix TV requer conexão com a internet, pois as listas de transmissões são carregadas diretamente de fontes online. Opcionalmente, para carregar logos de canais (se usarem URLs remotas).
 
 ---
 
