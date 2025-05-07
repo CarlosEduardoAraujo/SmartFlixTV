@@ -36,7 +36,7 @@ Os itens marcados como favoritos são salvos no armazenamento local do dispositi
 
 ## ⏳ Por que a lista demora para carregar?
 
-Listas muito grandes (ex: 290k entradas) podem levar alguns segundos para serem processadas, dependendo da velociadade da conexão e também o processamento do Smartphone, Tablet ou TV.
+Listas muito grandes (ex: 290k entradas) podem levar alguns segundos para serem processadas, dependendo da velocidade da conexão e também o processamento do Smartphone, Tablet ou TV.
 
 ---
 
