@@ -16,7 +16,7 @@ A versão mais recente do aplicativo está disponível na aba [Releases](https:/
 
 ## Suporte e Feedback
 
-Se você encontrar algum problema ou tiver sugestões de melhoria, por favor abra uma [Issue](https://github.com/CarlosEduardoAraujo/SmartFlixTV/issues). A comunidade e os desenvolvedores estão prontos para ajudar.
+Se você encontrar algum problema ou tiver sugestões de melhoria, por favor abra uma [Issue](https://github.com/CarlosEduardoAraujo/SmartFlixTV/issues). Se quiser falar diteramente, entre em nosso Discord e interaja https://discord.gg/XPGMh2UmE6. A comunidade e os desenvolvedores estão prontos para ajudar.
 
 ## Licença
 
