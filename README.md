@@ -1,10 +1,10 @@
 # SmartFlix TV
 
-**SmartFlix TV** é um aplicativo Android que permite acompanhar ao vivo as transmissões dos pilotos da equipe **Full Throttle eSports**, com organização por categorias, jogos e pilotos.
+**SmartFlix TV** é um aplicativo que permite aos usuários acessar e assistir a conteúdos de streaming organizados em categorias, como filmes, séries e canais ao vivo. Ele oferece recursos como favoritos, busca avançada e reprodução de vídeos..
 
 ## Funcionalidades
 
-- Organização hierárquica por categorias, subgrupos e pilotos.
+- Organização hierárquica por categorias, subgrupos e canais.
 - Reprodução direta de vídeos via ExoPlayer.
 - Atualização automática da lista de transmissões.
 - Busca rápida por texto.
@@ -12,11 +12,11 @@
 
 ## Baixar o APK
 
-A versão mais recente do aplicativo está disponível na aba [Releases](https://github.com/seuusuario/SmartFlixTV/releases).
+A versão mais recente do aplicativo está disponível na aba [Releases](https://github.com/CarlosEduardoAraujo/SmartFlixTV/releases).
 
 ## Suporte e Feedback
 
-Se você encontrar algum problema ou tiver sugestões de melhoria, por favor abra uma [Issue](https://github.com/seuusuario/SmartFlixTV/issues). A comunidade e os desenvolvedores estão prontos para ajudar.
+Se você encontrar algum problema ou tiver sugestões de melhoria, por favor abra uma [Issue](https://github.com/CarlosEduardoAraujo/SmartFlixTV/issues). A comunidade e os desenvolvedores estão prontos para ajudar.
 
 ## Licença
 
