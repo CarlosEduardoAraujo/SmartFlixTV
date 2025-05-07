@@ -28,6 +28,25 @@ Sim. Para funcionar corretamente, o SmartFlix TV requer conexão com a internet,
 
 ---
 
+## ⭐ Como funcionam os favoritos?
+
+Os itens marcados como favoritos são salvos no armazenamento local do dispositivo. Esses dados nunca são enviados para servidores externos.
+
+---
+
+## ⏳ Por que a lista demora para carregar?
+
+Listas muito grandes (ex: 290k entradas) podem levar alguns segundos para serem processadas, dependendo da velociadade da conexão e também o processamento do Smartphone, Tablet ou TV.
+
+---
+
+## 🗘 Como posso forçar uma atualização?
+
+Toque no botão redondo de atualização (canto inferior direito) ou ajuste a frequência automática em:
+Configurações > Atualização automática.
+
+---
+
 ## 🛠️ Posso sugerir melhorias ou reportar problemas?
 
 Com certeza! Você pode usar a aba [Issues](https://github.com/CarlosEduardoAraujo/SmartFlixTV/issues) aqui no GitHub para relatar bugs, sugerir novos recursos ou tirar dúvidas.
