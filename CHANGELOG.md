@@ -6,6 +6,14 @@ O formato é baseado em [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ---
 
+## [1.0.1] - 2025-05-08
+
+### Adicionado
+- Limpeza manual de cache
+- Tamanho do Buffer de Vídeo personalizado
+
+---
+
 ## [1.0.0] - 2025-05-07
 
 ### Adicionado
