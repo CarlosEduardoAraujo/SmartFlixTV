@@ -9,6 +9,9 @@
 - Atualização automática da lista de transmissões.
 - Busca rápida por texto.
 - Interface otimizada para desempenho.
+- Uso mínimo de memória RAM, velocidades incríveis e busca instantânea
+- Atualize suas fontes quando precisar
+- Adicione canais aos favoritos
 
 ## Baixar o APK
 
