@@ -12,6 +12,7 @@
 - Uso mínimo de memória RAM, velocidades incríveis e busca instantânea
 - Atualize suas fontes quando precisar
 - Adicione canais aos favoritos
+- Progressão de Série/Filme (VOD)
 
 ## Baixar o APK
 
