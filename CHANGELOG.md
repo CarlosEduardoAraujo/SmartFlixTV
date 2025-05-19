@@ -1,9 +1,5 @@
 # 📒 CHANGELOG
 
-Todas as mudanças importantes deste projeto serão documentadas neste arquivo.
-
-O formato é baseado em [Keep a Changelog](https://keepachangelog.com/en/1.0.0/) e este projeto segue a convenção de versionamento [SemVer](https://semver.org/lang/pt-BR/).
-
 ---
 
 ## [1.0.2] - 2025-05-14
