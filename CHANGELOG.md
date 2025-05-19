@@ -6,6 +6,17 @@ O formato é baseado em [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ---
 
+## [1.0.2] - 2025-05-14
+
+### Adicionado
+ - Lista salva agora é compactada – mais leveza e desempenho!
+ - Progressão de Série/Filme (VOD) agora é salva automaticamente
+ - Vídeos marcados como "Assistido" se mais de 98% concluído
+ - Exibimos o selo "Em Andamento" se você viu mais de 2 minutos ou 2%, mas não finalizou
+ - Ideal para quem gosta de retomar séries de onde parou e manter tudo organizado!
+   
+---
+
 ## [1.0.1] - 2025-05-08
 
 ### Adicionado
